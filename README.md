@@ -1,4 +1,4 @@
-### Olá! Eu sou o Júlio S Santos 👋
+### Olá! Eu sou o Júlio👋
 
 <div align="center">
   <a href="https://github.com/julio-ss">
