@@ -1,5 +1,5 @@
 
-##### Olá! Eu sou o Júlio👋
+## Olá! Eu sou o Júlio👋
 
 <div align="center">
   <a href="https://github.com/julio-ss">
